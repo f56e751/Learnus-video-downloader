@@ -1,6 +1,8 @@
 # Learnus-video-downloader
 Inspired by https://github.com/kyle8581/LearnUsDownloader
 
+동영상을 다운로드하는 핵 코드는 위 git의 코드를 그대로 사용하였으며, 여러 동영상을 한번에 편리하게 다운로드 하기 위해 UI만 wrapping함.
+
 입력 값에 대한 설명
  - cookie string: 
  
